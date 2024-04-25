@@ -1,0 +1,37 @@
+.testimonial-container {
+    display: flex;
+    background-color: #254588;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image{
+    border-radius: 20px; 
+    object-fit: cover;
+    position: absolute;
+    overflow: visible;
+    transform: translate(15%, 0);
+    width: 250px;
+    height: 250px;
+}
+
+.image-container{
+    display: block;
+    margin-right: 10%;
+}
+
+.testimonial-content{
+    display: block;
+    margin-left: 30%;
+    margin-right: 20px;
+    text-align: left;
+}
+
+.RiDoubleQuotesL {
+    font-size: 50px;
+}
+
+.FaHouseFlag {
+    font-size: 30px;
+}

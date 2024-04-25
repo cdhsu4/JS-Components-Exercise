@@ -1,0 +1,63 @@
+.banner-container {
+  font-weight: 500;
+  text-align: left;
+
+  display: flex;
+  align-items: center;
+  padding: 10px 10px;
+  margin: 10px auto;
+  max-width: 600px;
+}
+
+.HiInformationCircle{
+  font-size: 25px;
+  color:blue;
+}
+
+.BsExclamationTriangleFill{
+  font-size: 20px;
+  color:yellow;
+}
+
+.GoCheckCircleFill{
+  font-size: 20px;
+  color:green;
+}
+
+.FaCircleXmark{
+  font-size: 20px;
+  color:red;
+}
+
+.icon-info{
+  align-self: flex-start;
+}
+
+.text-info h1{
+  font-size: 20px;
+  margin: 0;
+}
+
+.text-info{
+  padding-left: 15px;
+}
+
+.red {
+  background-color: lightcoral;
+  color: darkred;
+}
+
+.yellow {
+  background-color: lightgoldenrodyellow;
+  color: darkgoldenrod;
+}
+
+.green {
+  background-color: lightgreen;
+  color: forestgreen;
+}
+
+.blue {
+  background-color: lightblue;
+  color: blue;
+}

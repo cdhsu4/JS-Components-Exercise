@@ -1,0 +1,59 @@
+.badge-container-pill {
+    font-weight: 500;
+    font-size: 2rem;
+    border-radius: 4rem;
+    padding: 1rem 4rem;
+    width: 100px;
+    margin: auto auto;
+  }
+  
+  .badge-container-square {
+    font-weight: 500;
+    font-size: 2rem;
+    border-radius: 1rem;
+    background-color: white;
+    color: black;
+    padding: 1rem 4rem;
+    width: 100px;
+    margin: auto auto;
+  }
+  
+  .white{
+    background-color: white;
+    color: black;
+  }
+
+  .red {
+    background-color: lightcoral;
+    color: darkred;
+  }
+  
+  .yellow {
+    background-color: lightgoldenrodyellow;
+    color: darkgoldenrod;
+  }
+  
+  .green {
+    background-color: lightgreen;
+    color: forestgreen;
+  }
+
+  .blue {
+    background-color: lightblue;
+    color: blue;
+  }
+
+  .indigo {
+    background-color: #E0E7FF;
+    color: indigo;
+  }
+
+  .purple {
+    background-color: plum;
+    color: purple;
+  }
+
+  .pink {
+    background-color: lightpink;
+    color: deeppink;
+  }
